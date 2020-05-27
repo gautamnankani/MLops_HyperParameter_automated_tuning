@@ -1,4 +1,4 @@
-**ML/DL + DevOps **:
+**ML/DL + DevOps:**
 
 **Automated Hyper-Parameter Tuning:**
 
