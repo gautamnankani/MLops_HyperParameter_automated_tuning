@@ -1,0 +1,6 @@
+accuracy:stats_name:HyperParameter:Serial_No
+0.8863636363636364:Second_model:"HYP1:- n_neighbors: 1 ,   |  ":0
+0.8636363636363636:Second_model:"HYP1:- n_neighbors: 2 ,   |  ":1
+0.9318181818181818:Second_model:"HYP1:- n_neighbors: 3 ,   |  ":2
+0.9090909090909091:Second_model:"HYP1:- n_neighbors: 4 ,   |  ":3
+0.9393939393939394:Second_model:"HYP1:- n_neighbors: 5 ,   |  ":4
