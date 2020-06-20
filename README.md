@@ -186,7 +186,7 @@ Explanation:
                            ))
     #EHYP2
 
-    accuracy=&lt;accuracy of this model>
+    accuracy= <accuracy of this model>
 
     ___________________________________________________________
 
