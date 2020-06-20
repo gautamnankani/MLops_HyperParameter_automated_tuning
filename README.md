@@ -146,9 +146,9 @@ Explanation:
 
     #EHYP1
 
-    For HYP1:   we add two comments to our code   1) **#SHYP1**  (i.e Start HYP1)
+   For HYP1:   we add two comments to our code   1) **#SHYP1**  (i.e Start HYP1)
 
-                                                  2) **#EHYP1  **(i.e. End HYP1)
+                                                 2) **#EHYP1  **(i.e. End HYP1)
 
 
    Similarly for HYP2 and so on,
