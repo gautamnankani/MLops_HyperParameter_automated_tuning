@@ -1,6 +1,6 @@
-**ML/DL + DevOps:**
+# ML/DL + DevOps:
 
-**Automated Hyper-Parameter Tuning:**
+# Automated Hyper-Parameter Tuning:
 
 Have you done hyperparameter tuning in the ML model i.e. have you tried to change parameters again and again to improve the accuracy of your ML model. Doing it manually again-and-again running the script may lead to tiredness and mistakes. What will happen if you can choose all the parameters initially in a smooth and well-defined way and let the machine do everything (like changing the values,  training the model, saving it in some cases and also maintaining a dataset of accuracy for all the dataset you gave)
 
